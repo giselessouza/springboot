@@ -1,8 +1,41 @@
 # springboot
-Semana de Aplicação Spring Boot em Java com a AlgaWorks
+Semana de Aplicação Spring Boot em Java com a AlgaWorks - Modelagem:
+
+ORDEM DE SERVICO:
 
 
-Tecnologias utilizadas (algumas) - 
+Descrição
+
+Preço
+
+Data de Abertura
+
+Data de Finalização
+
+STATUS DE ORDEM DE SERVICO:
+
+Aberta
+
+Finalizada
+
+Cancelada
+
+COMENTÁRIO:
+
+Descrição
+
+Data de Envio
+
+CLIENTE:
+
+Nome
+
+Email
+
+Telefone
+
+ALGUMAS TECNOLOGIAS UTILIZADAS - 
+
 JAVA 14
 
 
