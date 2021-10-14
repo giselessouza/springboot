@@ -35,7 +35,7 @@ public class ClienteController {
 	
 	@GetMapping("/clientes")
 	public List<Cliente> listar() {
-		return clienterepository.findAll(); //n tem service! HOW?!
+		return clienterepository.findAll();
 		
 	}
 	
